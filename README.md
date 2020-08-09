@@ -17,12 +17,12 @@ The following architectures were experimented upon.
 
 **LSTM with FC layer:**
 
-![fig-fc](fig-fc.png)
+![fig-fc](figures/fig-fc.png)
 
 
 **LSTM without FC layer:**
 
-![fig-no_fc](fig-no_fc.png)
+![fig-no_fc](figures/fig-no_fc.png)
 
 ## Results
 ```
@@ -32,7 +32,7 @@ Test Accuracy (without FC layer): 77.6%
 
 ## Prediction
 **Two test reviews: Negative and Positive**
-![result](result.png)
+![result](figures/result.png)
 
 ## References
 * Lecture: Very Deep Learning at TU Kaiserslautern.
