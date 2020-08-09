@@ -30,7 +30,11 @@ Test Accuracy (with FC layer): 85.4%
 Test Accuracy (without FC layer): 77.6%
 ```
 
+## Prediction
+**Two test reviews: Negative and Positive**
+![result](result.png)
+
 ## References
 * Lecture: Very Deep Learning at TU Kaiserslautern.
 * Code Skeleton: https://github.com/kumar-shridhar/Very-Deep-Learning-NLP
-* LSTM figures from Towards Data Science. 
+* LSTM figures from Towards Data Science https://towardsdatascience.com
